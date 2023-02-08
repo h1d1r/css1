@@ -1,0 +1,50 @@
+body {
+    background-color: #4f8c97;
+    text-align: center;
+    justify-content: center;
+    width: 600px;
+}
+
+
+.logo {
+
+    font-family: sans-serif;
+    color: #201c1c;
+
+}
+
+.menu {
+    display: flex;
+
+
+}
+
+.section{
+    display: flex;
+
+
+}
+
+.baslik {
+    font-size: 22px;
+    text-align: left;
+    font-family: sans-serif;
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+}
+
+.h2-baslik {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #ffd9d9;
+    padding: 5px;
+    margin: 5px;
+}
+
+.p-text {
+    font-family: sans-serif;
+    color: #ffffff;
+    padding: 5px;
+    margin: 5px;
+}
